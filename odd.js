@@ -1,6 +1,6 @@
-function isEven (num){
+function isodd (num){
   return num % 2 !== 0;
 }
 
-console.log(isEven(7));
-console.log(isEven(47));
+console.log(isOdd(7));
+console.log(isOdd(47));
